@@ -9,7 +9,7 @@ public class PairOfNumbers {
 		{
 			for(j=arr.length-1;j>=0;j--)
 			{
-				if(arr[i]+arr[j] == 10)
+				if(arr[i]+arr[j] == 9)
 				{
 					System.out.println(arr[i] + " + " + arr[j] + " = 9");
 					break;
